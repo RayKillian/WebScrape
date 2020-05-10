@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultMaps>
+    <entry>
+        <key>webscraping_css</key>
+        <value>{
+                "websites"  : {
+            "tokopedia" : {
+            "container": "div.css-rjanld div.css-jza1fo div.css-1g20a2m",
+            "priceNew": "div.css-1djbxkr",
+            "priceOld": "div.css-1beg0o7 span.css-o5uqvq",
+            "description": "span.css-1bjwylw",
+            "urlLink": "a.css-89jnbj",
+            "imgUrl": "img[src]",
+            "imgLogoUrl": "https://99sby.com/wp-content/uploads/2019/01/Tokopedia-Logo-Vector-VisualLogo.png",
+            "discountPercent": "div.css-1djbxkr"
+            }
+                }
+            }
+        </value>
+    </entry>
+</defaultMaps>

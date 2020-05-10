@@ -1,0 +1,2 @@
+rootProject.name='WebScrape'
+include ':app'
